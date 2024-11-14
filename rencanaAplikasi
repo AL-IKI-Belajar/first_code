@@ -1,0 +1,4 @@
+var first = 'Rencana pembuatan aplikasi'
+var second = 'rencana saya dalam pembelajaran ini adalah membuat aplikasi absensi untuk sebuah perusahaan berjudul Hadir'
+var third = 'dalam satu bulan ini saya akan mengimplementasikan hasil pembelajaran menjadi sebuah aplikasi buatan saya untuk membantu proses kehadiran para karyawan yang ingin melakukan absensi clock in dan clock out'
+console.log(first+' '+second+' '+third)
